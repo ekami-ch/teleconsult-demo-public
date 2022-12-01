@@ -1,1 +1,0 @@
-# teleconsult-demo-public
